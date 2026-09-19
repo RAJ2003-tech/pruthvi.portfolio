@@ -1,4 +1,4 @@
-# Hi, I'm Pruthviraj G S 👋
+# GitHub Profile | Pruthviraj G S 👋
 
 Cybersecurity enthusiast focused on SOC operations, security monitoring, network security, and IT infrastructure support.
 
@@ -111,4 +111,4 @@ I am building my career in cybersecurity, SOC operations, and IT infrastructure,
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
